@@ -1,7 +1,7 @@
 const peso = document.getElementById('weight');
 const altura = document.getElementById('height');
 const btnCalculate = document.getElementById('calculate');
-const result = document.querySelector('p')
+const result = document.querySelector('p');
 const form = document.querySelector('form');
 const reset = document.getElementById('reset');
 
